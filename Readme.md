@@ -1,12 +1,3 @@
-# TradeMax Smart Contract
-
-## Table of Contents
-- [Project Title](#project-title)
-- [Project Description](#project-description)
-- [Project Vision](#project-vision)
-- [Future Scope](#future-scope)
-- [Key Features](#key-features)
-
 ## Project Title
 **TradeMax**
 
