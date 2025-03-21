@@ -29,3 +29,7 @@ TradeMax envisions revolutionizing the trading experience by integrating blockch
 
 ![Screenshot 2025-03-20 235147](https://github.com/user-attachments/assets/93b1c497-d685-4a26-8f84-eaa5f4e4df07)
 
+## Frontend
+![image](https://github.com/user-attachments/assets/c42a8717-c872-462d-9973-ac8b34504155)
+
+
